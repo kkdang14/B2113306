@@ -128,4 +128,8 @@ public class SinhVien {
 			}
 		}
 	}
+
+	public diemrenluyen(){
+		return 0;
+	}
 }
