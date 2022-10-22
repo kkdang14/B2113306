@@ -69,4 +69,8 @@ public class SinhVienCNTT extends SinhVien {
 		return result;
 	}
 
+	public void lala(){
+		return lala;
+	}
+
 }
